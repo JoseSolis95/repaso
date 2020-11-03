@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>HOLA MUNDO</h1>
+    <h2>Mi Nombre Es Jose Solis</h2>
 
     <!--Archivos de JavaScript-->
 </body>
